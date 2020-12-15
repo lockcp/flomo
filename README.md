@@ -1,7 +1,7 @@
 # flomo
 此方法可在未解锁手机的情况下更快速的输入一段文字并保存到flomo中。
 
-1、下载flomo.js到jsbox中
+1、下载flomo.js到jsbox中，按提示填写api
 
 2、脚本添加到启动器，在负一屏widiget中添加jsbox的启动器
 
