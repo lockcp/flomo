@@ -9,10 +9,10 @@
 
 3、点击flomo，发送文字。完成
 
-![image](https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG)
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
 
-![image](https://raw.githubusercontent.com/smartmimi/flomo/main/2.PNG)
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
 
-![image](https://raw.githubusercontent.com/smartmimi/flomo/main/3.PNG)
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
 
-![image](https://raw.githubusercontent.com/smartmimi/flomo/main/4.PNG)
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
