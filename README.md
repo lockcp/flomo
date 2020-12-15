@@ -8,10 +8,11 @@
 注：iOS14的小组件无法交互，依然使用的ios13的widget
 
 3、点击flomo，发送文字。完成
-https://github.com/smartmimi/flomo/blob/main/1.PNG
 
-https://github.com/smartmimi/flomo/blob/main/2.PNG
+https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG
 
-https://github.com/smartmimi/flomo/blob/main/3.PNG
+https://raw.githubusercontent.com/smartmimi/flomo/main/2.PNG
 
-https://github.com/smartmimi/flomo/blob/main/4.PNG
+https://raw.githubusercontent.com/smartmimi/flomo/main/3.PNG
+
+https://raw.githubusercontent.com/smartmimi/flomo/main/4.PNG
