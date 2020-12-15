@@ -11,8 +11,8 @@
 
 <img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
 
-<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/2.PNG" width="50%" height="50%">
 
-<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/3.PNG" width="50%" height="50%">
 
-<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/1.PNG" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/smartmimi/flomo/main/4.PNG" width="50%" height="50%">
