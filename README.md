@@ -21,7 +21,7 @@
 
 ## 二、Taio用法
 
-![点击安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
+[点击安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
 
 或复制如下链接到手机浏览器打开
 
