@@ -1,4 +1,6 @@
 # flomo
+## 一、jsbox用法
+
 此方法可在未解锁手机的情况下更快速的输入一段文字并保存到flomo中。
 
 1、下载flomo.js到jsbox中，按提示填写api
@@ -16,3 +18,16 @@
 <img src="https://raw.githubusercontent.com/smartmimi/flomo/main/3.PNG" width="50%" height="50%">
 
 <img src="https://raw.githubusercontent.com/smartmimi/flomo/main/4.PNG" width="50%" height="50%">
+
+## 二、Taio用法
+
+因github app无法分享到Taio，因此建议在网页端打开flomo.taioactions后下载此文件（右键raw，链接另存为，保存此文件后传送到手机（已测试QQ可以“用其他应用打开”并保存为动作），就可以分享到Taio了）
+
+
+1、下载flomo.taioactions文件到本地，分享，用Taio打开，添加动作
+
+2、编辑改动作，按提示填入api
+
+3、在Taio中选中一段文字，点击右上角的闪电符号，选择此动作即可（如看不到，可在动作库中将此脚本移动到“编辑器”中）
+
+注：working copy分享到Taio会变成文本。现在依然找不到合适的分享动作的方法。
