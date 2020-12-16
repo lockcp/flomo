@@ -21,8 +21,7 @@
 
 ## 二、Taio用法
 
-因github app无法分享到Taio，因此建议在网页端打开flomo.taioactions后下载此文件（右键raw，链接另存为，保存此文件后传送到手机（已测试QQ可以“用其他应用打开”并保存为动作），就可以分享到Taio了）
-
+[点击此处安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
 
 1、下载flomo.taioactions文件到本地，分享，用Taio打开，添加动作
 
