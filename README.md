@@ -23,6 +23,10 @@
 
 [点击此处安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
 
+或复制以下地址在ios内打开
+
+taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions
+
 1、下载flomo.taioactions文件到本地，分享，用Taio打开，添加动作
 
 2、编辑改动作，按提示填入api
