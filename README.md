@@ -23,7 +23,7 @@
 
 [点击此处安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
 
-<a href=”taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions“>安装链接</a>
+<a href=“taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions”>安装链接</a>
 
 
 1、下载flomo.taioactions文件到本地，分享，用Taio打开，添加动作
