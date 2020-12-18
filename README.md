@@ -21,6 +21,9 @@
 
 ## 二、Taio用法
 
+
+Appstore里下载Taio，现在暂时未收费，是一个文本处理软件，软件内提供多个动作以及可自行编写动作。
+
 [点击安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
 
 或复制如下链接到手机浏览器打开
@@ -28,7 +31,7 @@
 taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions
 
 
-1、安装
+1、安装Taio并用如上方法安装flomo.taioactions动作
 
 2、编辑该动作，按提示填入api
 
