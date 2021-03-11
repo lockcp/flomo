@@ -28,7 +28,7 @@
         "selectAllByDefault" : false,
         "multiValue" : false,
         "lines" : {
-          "value" : "剪切板\n全文件"
+          "value" : "选中的文本\n全文件"
         }
       }
     },
@@ -55,7 +55,7 @@
         "blockIdentifier" : "AA7DD24A-849A-4201-9C1C-C143F437327E",
         "condition" : 0,
         "rhs" : {
-          "value" : "剪切板"
+          "value" : "选中的文本"
         },
         "lhs" : {
           "value" : "$",
