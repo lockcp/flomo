@@ -62,7 +62,7 @@
           "tokens" : [
             {
               "location" : 0,
-              "value" : "@input"
+              "value" : "choice"
             }
           ]
         }
@@ -71,7 +71,7 @@
     {
       "type" : "@editor.selected-text",
       "parameters" : {
-        "fallback" : 0
+        "fallback" : 2
       }
     },
     {
@@ -84,7 +84,7 @@
       "type" : "@editor.get-text",
       "parameters" : {
         "location" : 0,
-        "fallback" : 0,
+        "fallback" : 1,
         "filename" : {
           "value" : "$",
           "tokens" : [
@@ -314,7 +314,7 @@
     }
   ],
   "buildVersion" : 1,
-  "name" : "flomo",
+  "name" : "flomo 2",
   "clientMinVersion" : 1,
   "summary" : "将选中的部分发送到flomo",
   "icon" : {
