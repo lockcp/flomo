@@ -20,16 +20,49 @@
       }
     },
     {
-      "type" : "@ui.menu",
+      "type" : "@ui.alert",
       "parameters" : {
-        "prompt" : {
+        "showCancelButton" : false,
+        "message" : {
           "value" : ""
         },
-        "selectAllByDefault" : false,
-        "multiValue" : false,
-        "lines" : {
-          "value" : "选中的文本\n全文件"
-        }
+        "title" : {
+          "value" : "选择发送的内容"
+        },
+        "actions" : [
+          {
+            "title" : {
+              "value" : "当前文件"
+            },
+            "value" : {
+              "value" : "0"
+            }
+          },
+          {
+            "title" : {
+              "value" : "选中的内容"
+            },
+            "value" : {
+              "value" : "1"
+            }
+          },
+          {
+            "title" : {
+              "value" : ""
+            },
+            "value" : {
+              "value" : "2"
+            }
+          },
+          {
+            "title" : {
+              "value" : ""
+            },
+            "value" : {
+              "value" : "3"
+            }
+          }
+        ]
       }
     },
     {
@@ -55,7 +88,7 @@
         "blockIdentifier" : "AA7DD24A-849A-4201-9C1C-C143F437327E",
         "condition" : 0,
         "rhs" : {
-          "value" : "选中的文本"
+          "value" : "1"
         },
         "lhs" : {
           "value" : "$",
@@ -81,6 +114,25 @@
       }
     },
     {
+      "type" : "@flow.if",
+      "parameters" : {
+        "blockIdentifier" : "8004F537-B918-483C-9CE9-5F61E9C6A03C",
+        "condition" : 0,
+        "rhs" : {
+          "value" : "0"
+        },
+        "lhs" : {
+          "value" : "$",
+          "tokens" : [
+            {
+              "location" : 0,
+              "value" : "choice"
+            }
+          ]
+        }
+      }
+    },
+    {
       "type" : "@editor.get-text",
       "parameters" : {
         "location" : 0,
@@ -94,6 +146,67 @@
             }
           ]
         }
+      }
+    },
+    {
+      "type" : "@flow.else",
+      "parameters" : {
+        "blockIdentifier" : "8004F537-B918-483C-9CE9-5F61E9C6A03C"
+      }
+    },
+    {
+      "type" : "@ui.alert",
+      "parameters" : {
+        "showCancelButton" : true,
+        "message" : {
+          "value" : ""
+        },
+        "title" : {
+          "value" : "选择错误"
+        },
+        "actions" : [
+          {
+            "title" : {
+              "value" : ""
+            },
+            "value" : {
+              "value" : "0"
+            }
+          },
+          {
+            "title" : {
+              "value" : ""
+            },
+            "value" : {
+              "value" : "1"
+            }
+          },
+          {
+            "title" : {
+              "value" : ""
+            },
+            "value" : {
+              "value" : "2"
+            }
+          },
+          {
+            "title" : {
+              "value" : ""
+            },
+            "value" : {
+              "value" : "3"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type" : "@flow.finish"
+    },
+    {
+      "type" : "@flow.endif",
+      "parameters" : {
+        "blockIdentifier" : "8004F537-B918-483C-9CE9-5F61E9C6A03C"
       }
     },
     {
@@ -273,7 +386,7 @@
         "actions" : [
           {
             "title" : {
-              "value" : ""
+              "value" : "知道啦"
             },
             "value" : {
               "value" : "0"
@@ -314,11 +427,11 @@
     }
   ],
   "buildVersion" : 1,
-  "name" : "flomo 2",
+  "name" : "flomo",
   "clientMinVersion" : 1,
   "summary" : "将选中的部分发送到flomo",
   "icon" : {
-    "glyph" : "wind",
+    "glyph" : "tray.and.arrow.up.fill",
     "color" : "#60C172"
   },
   "clientVersion" : 118
