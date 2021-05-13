@@ -22,7 +22,7 @@
 ## 二、Taio用法
 
 
-Appstore里下载Taio，现在暂时未收费，是一个文本处理软件，软件内提供多个动作以及可自行编写动作。
+Appstore里下载Taio，是一个文本处理软件，软件内提供多个动作以及可自行编写动作。
 
 [点击安装](taio://actions?action=import&url=https%3A%2F%2Fraw.githubusercontent.com%2Fsmartmimi%2Fflomo%2Fmain%2Fflomo.taioactions)
 
